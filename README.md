@@ -17,7 +17,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-raju-mr2005/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joelraju2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-e6edf3?style=flat-square&logo=github&logoColor=0d1117)](https://github.com/MrProfessorHe)
-[![Profile Views](https://komarev.com/ghpvc/?username=MrProfessorHe&style=flat-square&color=30363d&label=views)](https://github.com/MrProfessorHe)
 
 </div>
 
@@ -101,4 +100,4 @@ I work across the full stack and explore the intersection of systems-level engin
 
 <div align="center">
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=MrProfessorHe&style=for-the-badge&color=0e75b6&label=PROFILE+TRAFFIC)
