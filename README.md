@@ -44,12 +44,7 @@ I work across the full stack and explore the intersection of systems-level engin
 
 ### Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-
+**Languages**&ensp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=0d1117)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -57,8 +52,7 @@ I work across the full stack and explore the intersection of systems-level engin
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=0d1117)
 
-**Web & Mobile**
-
+**Web & Mobile**&ensp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0d1117)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=express&logoColor=0d1117)
@@ -67,36 +61,17 @@ I work across the full stack and explore the intersection of systems-level engin
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=0d1117)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
-
-**Data & AI**
-
+**Data & AI**&ensp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-**Tooling**
-
+**Tooling**&ensp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-e6edf3?style=flat-square&logo=github&logoColor=0d1117)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=0d1117)
-
-**Areas of Interest**
-
-```
-Full-Stack Dev      MERN · Laravel · REST
-Deep Learning       CNN · LSTM · architectures
-LLMs & AI           Neuro-symbolic · reasoning
-Cybersecurity       Deepfake detection
-Mobile              Flutter · Android (AOSP)
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -110,24 +85,20 @@ Mobile              Flutter · Android (AOSP)
 
 </div>
 
+---
+
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrProfessorHe/MrProfessorHe/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrProfessorHe/MrProfessorHe/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MrProfessorHe/MrProfessorHe/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
 ---
 
 <div align="center">
-
-
-</div>
-
-<div align="center">
-
-<sub>Building things that matter, one commit at a time.</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" />
 
 </div>
